@@ -1,0 +1,32 @@
+{
+    "noper": {
+        "desc": "No permission",
+        "vi_VN": "Không đủ quyền!",
+        "en_US": "No permission!",
+        "args": {}
+    },
+    "ib": {
+        "desc": "Inbox only",
+        "vi_VN": "Lệnh chỉ hoạt động khi inbox!",
+        "en_US": "Inbox only!",
+        "args": {}
+    },
+    "fetchFall": {
+        "desc": "When unable to connect to Github",
+        "vi_VN": "Không thể kết nối đến máy chủ! Vui lòng thử lại sau.",
+        "en_US": "Can not connect to server! Please try again later.",
+        "args": {}
+    },
+    "store": {
+        "desc": "List of commands available in Plugins Store",
+        "vi_VN": "Danh sách các lệnh hiện có ở Plugins Store:\n{list}(trang {0}/{1})\n Hãy reply tin nhắn này kèm số thứ tự để cài đặt/gỡ cài đặt plugin tương ứng. Nhập “all” để cài đặt toàn bộ plugin ở trang hiện tại.",
+        "en_US": "The list of commands is available at Plugins Store:\n{list}(page {0}/{1})\n Please reply to this message with the serial number to install/uninstall the corresponding plugin. Type “all” to install all plugins on the current page.",
+        "args": {}
+    },
+    "insd": {
+        "desc": "Installed",
+        "vi_VN": "Đã cài đặt",
+        "en_US": "Installed",
+        "args": {}
+    }
+}

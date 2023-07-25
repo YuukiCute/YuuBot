@@ -1,0 +1,24 @@
+{
+    "connect": {
+        "desc": "Connected",
+        "vi_VN": "{0} | Đã kết nối!\n",
+        "en_US": "{0} | Connected!\n",
+        "args": {
+            "{0}": {
+                "vi_VN": "Tên Bot",
+                "en_US": "Bot name"
+            }
+        }
+    },
+    "help": {
+        "desc": "help",
+        "vi_VN": "Sử dụng lệnh \"{0}help [Trang||Lệnh]\" để xem tất cả các lệnh.",
+        "en_US": "Use the command \"{0}help [Page||Commands]\" to see all commands.",
+        "args": {
+            "{0}": {
+                "vi_VN": "Prefix",
+                "en_US": "Prefix"
+            }
+        }
+    }
+}

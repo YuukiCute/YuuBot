@@ -1,0 +1,109 @@
+[12.7T18.52.59Z] [Config] Loading config success!
+[12.7T18.52.59Z] [Data] Loading data...
+[12.7T18.52.59Z] [Data] Loading data success!
+[12.7T18.52.59Z] [Plugin] Loading Plugins...
+[12.7T18.52.59Z] [Plugins] Loading main plugins "Y2TB.js"...
+[12.7T18.52.59Z] [Plugins(Y2TB)] In developer mode only develop plugin and plugin eval, help, plugins store can load!
+[12.7T18.52.59Z] [Plugins(Y2TB)] Loaded devplugin: AntiUnsend 0.0.1 by HerokeyVN
+[12.7T18.52.59Z] [Plugins(Y2TB)] Loaded devplugin: ArrowChat 0.0.1 by HerokeyVN
+[12.7T18.52.59Z] [Plugins(Y2TB)] Loaded devplugin: Auto Download 0.0.1 by Yuuki
+[12.7T18.52.59Z] [Plugins(Y2TB)] Loaded devplugin: ChemicalEquationBalancer 0.1 by UIRI
+[12.7T18.52.59Z] [Plugins(Y2TB)] Loaded devplugin: ChatGPT 0.0.1 by HerokeyVN
+[12.7T18.52.59Z] [Plugins(Y2TB)] Loaded devplugin: Connected 0.0.1 by HerokeyVN
+[12.7T18.52.59Z] [Plugins(Y2TB)] Loaded devplugin: Csim 0.0.1 by HerokeyVN
+[12.7T18.52.59Z] [Plugins(Y2TB)] Loaded devplugin: DevTool 0.0.1 by HyTommy
+[12.7T18.52.59Z] [Plugins(Y2TB)] Loaded devplugin: Download Tiktok 0.0.1 by Yuuki
+[12.7T18.52.59Z] [Plugins(Y2TB)] Loaded devplugin: Economy 0.0.1 by HerokeyVN
+[12.7T18.52.59Z] [Plugins(Y2TB)] Loaded devplugin: Eval 0.0.1 by HerokeyVN
+[12.7T18.52.59Z] [Plugins(Y2TB)] Loaded devplugin: Help 0.0.1 by HerokeyVN
+[12.7T18.52.59Z] [Plugins(Y2TB)] Loaded devplugin: Image Hentaiz 0.0.1 by Yuuki
+[12.7T18.52.59Z] [Plugins(Y2TB)] Loaded devplugin: JPG Anime 0.0.1 by HerokeyVN
+[12.7T18.52.59Z] [Plugins(Y2TB)] Loaded devplugin: Math 0.0.1 by HerokeyVN
+[12.7T18.52.59Z] [Plugins(Y2TB)] Loaded devplugin: 18+ Images 0.0.1 by HerokeyVN
+[12.7T18.52.59Z] [Plugins(Y2TB)] Loaded devplugin: Ping 0.0.1 by HerokeyVN
+[12.7T18.52.59Z] [Plugins(Y2TB)] Loaded devplugin: QRcode 0.0.1 by HerokeyVN
+[12.7T18.52.59Z] [Restart] [WARN!] Sẽ khởi động lại sau 60 phút. Lưu ý:
+- Để chỉnh sửa thời gian tự động khởi động lại, dùng ".autorestart <Thời gian (phút)>"
+- Thời gian khởi động lại bằng 0 sẽ tắt tính năng tự động khởi động lại
+[12.7T18.52.59Z] [Plugins(Y2TB)] Loaded devplugin: Restart 0.0.1 by HerokeyVN
+[12.7T18.52.59Z] [Plugins(Y2TB)] Loaded devplugin: Rushia 0.0.1 by Yuuki
+[12.7T18.52.59Z] [Plugins(Y2TB)] Loaded devplugin: T2Speaks 0.5.0 by UIRI
+[12.7T18.52.59Z] [Plugins(Y2TB)] Loaded devplugin: test 0.0.1 by Yuuki
+[12.7T18.53.0Z] [Plugins(Y2TB)] Loaded devplugin: THPT 0.0.1 by Yuuki
+[12.7T18.53.0Z] [Plugins(Y2TB)] Loaded devplugin: Unsend 0.0.1 by HerokeyVN
+[12.7T18.53.0Z] [Plugins(Y2TB)] Loaded devplugin: test 0.0.1 by Yuuki
+[12.7T18.53.0Z] [Plugins(Y2TB)] Loaded devplugin: Weather 0.0.1 by HerokeyVN
+[12.7T18.53.0Z] [Plugins(Y2TB)] Loaded devplugin: SearchWiki 0.1.2 by Stowe + BadAimWeeb (f.edit)
+[12.7T18.53.0Z] [Plugins(Y2TB)] Loaded devplugin: XPchat 0.0.1 by HerokeyVN
+[12.7T18.53.0Z] [Plugins(Y2TB)] Loaded devplugin: YTmp34 0.1.0 by HerokeyVN
+[12.7T18.53.0Z] [Plugins(Y2TB)] Loaded devplugin: YTSearch 0.0.1 by HerokeyVN
+[12.7T18.53.0Z] [Plugins(Y2TB)] Loaded devplugin: Eval 0.0.1 by HerokeyVN
+[12.7T18.53.1Z] [Plugins(Y2TB)] Loaded devplugin: Help 0.0.1 by HerokeyVN
+[12.7T18.53.1Z] [Plugins(Y2TB)] Loaded devplugin: Plugins Store 0.0.1 by HerokeyVN
+[12.7T18.53.1Z] [Languages] Loading Languages...
+[12.7T18.53.1Z] [Languages] Loaded language for plugin "AntiUnsend"
+[12.7T18.53.1Z] [Languages] Loaded language for plugin "ArrowChat"
+[12.7T18.53.1Z] [Languages] Loaded language for plugin "Auto Download"
+[12.7T18.53.1Z] [Languages] Loaded language for plugin "Connected"
+[12.7T18.53.1Z] [Languages] Loaded language for plugin "Csim"
+[12.7T18.53.1Z] [Languages] Loaded language for plugin "DevTool"
+[12.7T18.53.1Z] [Languages] Loaded language for plugin "Download Tiktok"
+[12.7T18.53.1Z] [Languages] Loaded language for plugin "Economy"
+[12.7T18.53.1Z] [Languages] Loaded language for plugin "Help"
+[12.7T18.53.1Z] [Languages] Loaded language for plugin "Image Hentaiz"
+[12.7T18.53.1Z] [Languages] Loaded language for plugin "JPG Anime"
+[12.7T18.53.1Z] [Languages] Loaded language for plugin "Plugins Store"
+[12.7T18.53.1Z] [Languages] Loaded language for plugin "QRcode"
+[12.7T18.53.1Z] [Languages] Loaded language for plugin "Restart"
+[12.7T18.53.1Z] [Languages] Loaded language for plugin "Rushia"
+[12.7T18.53.1Z] [Languages] Loaded language for plugin "test"
+[12.7T18.53.1Z] [Languages] Loaded language for plugin "THPT"
+[12.7T18.53.1Z] [Languages] Loaded language for plugin "Unsend"
+[12.7T18.53.1Z] [Languages] Loaded language for plugin "Weather"
+[12.7T18.53.1Z] [Config] Loading config for plugins...
+[12.7T18.53.1Z] [Config] Loaded config for plugin "Auto Download"
+[12.7T18.53.1Z] [Manager] Loading User-credentials...
+[12.7T18.53.1Z] [Facebook] => Login account using FBstate
+[12.7T18.53.1Z] [Manager] Logging...
+[12.7T18.53.4Z] [Manager] Login successfuly!
+[12.7T18.53.5Z] [Message] [100007534232171 to 4311623618967026] =DD
+[12.7T18.53.8Z] [Message] [100007534232171 to 4311623618967026] cho choi mc voi oii
+[12.7T18.57.19Z] [Message] [100023693990349 to 4311623618967026] 🕷️
+[12.7T18.57.24Z] [Message] [100023693990349 to 4311623618967026] vps sập r hay sao í
+[12.7T19.2.27Z] [Message] {
+    "type": "message",
+    "senderID": "100026039134645",
+    "body": "(~~[ 19:00:00_12/07/2023 ]~~)\nĐây Là Tin Nhắn Tự Động!\n\nMá ơi đừng gả con xa\nGả con qua Úc,Canada được rồi\nMá ơi đừng gả con xa\nChim kêu vượn hú biết nhà má đâu\nMá ơi đừng gả con gần\nCon qua mượn gạo nhiều lần má la",
+    "threadID": "5668747433145242",
+    "messageID": "mid.$gABQjsh0S85qPe0B50mJSfj8NFmad",
+    "attachments": [
+        {
+            "type": "video",
+            "filename": "video-dcd20227-b442-4273-87df-1e4b5cc39d45-1689163345.mp4",
+            "ID": "263867603009527",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/344050101_5963504433776201_8570508110469893230_n.jpg?stp=dst-jpg_s640x640&_nc_cat=107&ccb=1-7&_nc_sid=f8ae41&_nc_ohc=FFmD_YZCHmEAX9lvcAx&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSB_vtSNdSObkespnWK9IK_AbpxP1bYpy25riFj1ERH8Q&oe=64B3B45A",
+            "previewWidth": 360,
+            "previewHeight": 640,
+            "url": "https://scontent.xx.fbcdn.net/v/t42.3356-2/344252273_6200608336672248_1680792575714162036_n.mp4?_nc_cat=103&ccb=1-7&_nc_sid=060d78&_nc_ohc=m4DRdwb7Ul4AX_o7b5q&_nc_ht=scontent.xx&oh=03_AdT8lRmdShz41AZjvAlXQ11kphNY7RPOPfbY2mNzh6IsUg&oe=64AEB38B&dl=1",
+            "width": 480,
+            "height": 852,
+            "duration": 26000,
+            "videoType": "file_attachment",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/344050101_5963504433776201_8570508110469893230_n.jpg?stp=dst-jpg_s640x640&_nc_cat=107&ccb=1-7&_nc_sid=f8ae41&_nc_ohc=FFmD_YZCHmEAX9lvcAx&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSB_vtSNdSObkespnWK9IK_AbpxP1bYpy25riFj1ERH8Q&oe=64B3B45A"
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1689163346386",
+    "isGroup": true
+}
+[12.7T19.6.34Z] [Message] [100007534232171 to 4311623618967026] ai có netflix hongg
+[12.7T19.6.40Z] [Message] [100007534232171 to 4311623618967026] t mượn cày RoK ii
+[12.7T19.6.58Z] [Message] [100042415119261 to 4311623618967026] Daaa
+[12.7T19.7.1Z] [Message] [100042415119261 to 4311623618967026] Hog
+[12.7T19.7.2Z] [Message] [100042415119261 to 4311623618967026] Có
+[12.7T19.7.3Z] [Message] [100042415119261 to 4311623618967026] 👀👀👀
+[12.7T19.7.9Z] [Message] [100007534232171 to 4311623618967026] :(((((((((((((((((((((
+[12.7T19.9.24Z] [Message] [100023693990349 to 4311623618967026] 🕷️
+[12.7T19.31.12Z] [Message] [542207672 to 4311623618967026] 🕷️
+[12.7T19.52.59Z] [Restart] [WARN!] Bắt đầu khởi động lại!
+[12.7T19.52.59Z] [Data] Saved data!

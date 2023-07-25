@@ -1,0 +1,13 @@
+{
+    "smsg": {
+        "desc": "none!",
+        "vi_VN": "Thời gian còn lại tính đến ngày thi THPTQG 2023 là: {0} ngày {1} giờ {2} phút {3} giây",
+        "en_US": "The remaining time as of the 2023 THPTQG exam date is: {0} days {1} hours {2} minutes {3} seconds",
+        "args": {
+            "{0}": {
+                "vi_VN": "Ngày",
+                "en_US": "Days"
+            }
+        }
+    }
+}

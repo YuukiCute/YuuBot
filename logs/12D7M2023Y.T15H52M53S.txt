@@ -1,0 +1,125 @@
+[12.7T15.52.53Z] [Config] Loading config success!
+[12.7T15.52.53Z] [Data] Loading data...
+[12.7T15.52.53Z] [Data] Loading data success!
+[12.7T15.52.53Z] [Plugin] Loading Plugins...
+[12.7T15.52.53Z] [Plugins] Loading main plugins "Y2TB.js"...
+[12.7T15.52.53Z] [Plugins(Y2TB)] In developer mode only develop plugin and plugin eval, help, plugins store can load!
+[12.7T15.52.53Z] [Plugins(Y2TB)] Loaded devplugin: AntiUnsend 0.0.1 by HerokeyVN
+[12.7T15.52.53Z] [Plugins(Y2TB)] Loaded devplugin: ArrowChat 0.0.1 by HerokeyVN
+[12.7T15.52.53Z] [Plugins(Y2TB)] Loaded devplugin: Auto Download 0.0.1 by Yuuki
+[12.7T15.52.53Z] [Plugins(Y2TB)] Loaded devplugin: ChemicalEquationBalancer 0.1 by UIRI
+[12.7T15.52.53Z] [Plugins(Y2TB)] Loaded devplugin: ChatGPT 0.0.1 by HerokeyVN
+[12.7T15.52.54Z] [Plugins(Y2TB)] Loaded devplugin: Connected 0.0.1 by HerokeyVN
+[12.7T15.52.54Z] [Plugins(Y2TB)] Loaded devplugin: Csim 0.0.1 by HerokeyVN
+[12.7T15.52.54Z] [Plugins(Y2TB)] Loaded devplugin: DevTool 0.0.1 by HyTommy
+[12.7T15.52.54Z] [Plugins(Y2TB)] Loaded devplugin: Download Tiktok 0.0.1 by Yuuki
+[12.7T15.52.54Z] [Plugins(Y2TB)] Loaded devplugin: Economy 0.0.1 by HerokeyVN
+[12.7T15.52.54Z] [Plugins(Y2TB)] Loaded devplugin: Eval 0.0.1 by HerokeyVN
+[12.7T15.52.54Z] [Plugins(Y2TB)] Loaded devplugin: Help 0.0.1 by HerokeyVN
+[12.7T15.52.54Z] [Plugins(Y2TB)] Loaded devplugin: Image Hentaiz 0.0.1 by Yuuki
+[12.7T15.52.54Z] [Plugins(Y2TB)] Loaded devplugin: JPG Anime 0.0.1 by HerokeyVN
+[12.7T15.52.54Z] [Plugins(Y2TB)] Loaded devplugin: Math 0.0.1 by HerokeyVN
+[12.7T15.52.54Z] [Plugins(Y2TB)] Loaded devplugin: 18+ Images 0.0.1 by HerokeyVN
+[12.7T15.52.54Z] [Plugins(Y2TB)] Loaded devplugin: Ping 0.0.1 by HerokeyVN
+[12.7T15.52.54Z] [Plugins(Y2TB)] Loaded devplugin: QRcode 0.0.1 by HerokeyVN
+[12.7T15.52.54Z] [Restart] [WARN!] Sẽ khởi động lại sau 60 phút. Lưu ý:
+- Để chỉnh sửa thời gian tự động khởi động lại, dùng ".autorestart <Thời gian (phút)>"
+- Thời gian khởi động lại bằng 0 sẽ tắt tính năng tự động khởi động lại
+[12.7T15.52.54Z] [Plugins(Y2TB)] Loaded devplugin: Restart 0.0.1 by HerokeyVN
+[12.7T15.52.54Z] [Plugins(Y2TB)] Loaded devplugin: Rushia 0.0.1 by Yuuki
+[12.7T15.52.54Z] [Plugins(Y2TB)] Loaded devplugin: T2Speaks 0.5.0 by UIRI
+[12.7T15.52.54Z] [Plugins(Y2TB)] Loaded devplugin: test 0.0.1 by Yuuki
+[12.7T15.52.54Z] [Plugins(Y2TB)] Loaded devplugin: THPT 0.0.1 by Yuuki
+[12.7T15.52.54Z] [Plugins(Y2TB)] Loaded devplugin: Unsend 0.0.1 by HerokeyVN
+[12.7T15.52.54Z] [Plugins(Y2TB)] Loaded devplugin: test 0.0.1 by Yuuki
+[12.7T15.52.54Z] [Plugins(Y2TB)] Loaded devplugin: Weather 0.0.1 by HerokeyVN
+[12.7T15.52.54Z] [Plugins(Y2TB)] Loaded devplugin: SearchWiki 0.1.2 by Stowe + BadAimWeeb (f.edit)
+[12.7T15.52.54Z] [Plugins(Y2TB)] Loaded devplugin: XPchat 0.0.1 by HerokeyVN
+[12.7T15.52.54Z] [Plugins(Y2TB)] Loaded devplugin: YTmp34 0.1.0 by HerokeyVN
+[12.7T15.52.54Z] [Plugins(Y2TB)] Loaded devplugin: YTSearch 0.0.1 by HerokeyVN
+[12.7T15.52.54Z] [Plugins(Y2TB)] Loaded devplugin: Eval 0.0.1 by HerokeyVN
+[12.7T15.52.55Z] [Plugins(Y2TB)] Loaded devplugin: Help 0.0.1 by HerokeyVN
+[12.7T15.52.55Z] [Plugins(Y2TB)] Loaded devplugin: Plugins Store 0.0.1 by HerokeyVN
+[12.7T15.52.55Z] [Languages] Loading Languages...
+[12.7T15.52.55Z] [Languages] Loaded language for plugin "AntiUnsend"
+[12.7T15.52.55Z] [Languages] Loaded language for plugin "ArrowChat"
+[12.7T15.52.55Z] [Languages] Loaded language for plugin "Auto Download"
+[12.7T15.52.55Z] [Languages] Loaded language for plugin "Connected"
+[12.7T15.52.55Z] [Languages] Loaded language for plugin "Csim"
+[12.7T15.52.55Z] [Languages] Loaded language for plugin "DevTool"
+[12.7T15.52.55Z] [Languages] Loaded language for plugin "Download Tiktok"
+[12.7T15.52.55Z] [Languages] Loaded language for plugin "Economy"
+[12.7T15.52.55Z] [Languages] Loaded language for plugin "Help"
+[12.7T15.52.55Z] [Languages] Loaded language for plugin "Image Hentaiz"
+[12.7T15.52.55Z] [Languages] Loaded language for plugin "JPG Anime"
+[12.7T15.52.55Z] [Languages] Loaded language for plugin "Plugins Store"
+[12.7T15.52.55Z] [Languages] Loaded language for plugin "QRcode"
+[12.7T15.52.55Z] [Languages] Loaded language for plugin "Restart"
+[12.7T15.52.55Z] [Languages] Loaded language for plugin "Rushia"
+[12.7T15.52.55Z] [Languages] Loaded language for plugin "test"
+[12.7T15.52.55Z] [Languages] Loaded language for plugin "THPT"
+[12.7T15.52.55Z] [Languages] Loaded language for plugin "Unsend"
+[12.7T15.52.55Z] [Languages] Loaded language for plugin "Weather"
+[12.7T15.52.55Z] [Config] Loading config for plugins...
+[12.7T15.52.55Z] [Config] Loaded config for plugin "Auto Download"
+[12.7T15.52.55Z] [Manager] Loading User-credentials...
+[12.7T15.52.55Z] [Facebook] => Login account using FBstate
+[12.7T15.52.55Z] [Manager] Logging...
+[12.7T15.52.58Z] [Manager] Login successfuly!
+[12.7T15.58.3Z] [Message] [100023693990349 to 4311623618967026] 🕷️
+[12.7T15.58.3Z] [Message] {
+    "type": "message",
+    "senderID": "100023693990349",
+    "body": "",
+    "threadID": "4311623618967026",
+    "messageID": "mid.$gAA9RZho2tfKPepemlGJSVJUN1JFX",
+    "attachments": [
+        {
+            "type": "photo",
+            "ID": "3567500226862606",
+            "filename": "image-3567500226862606",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/360168989_3567500230195939_3435297089428895080_n.jpg?stp=cp0_dst-jpg_s64x64&_nc_cat=111&ccb=1-7&_nc_sid=ae9488&_nc_ohc=5OMlQo5KCK4AX9KyrCQ&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSoI-shzKHQLPoLAgV3TnljvnpEvJ_948E4woi6Yg86Uw&oe=64D5C053",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/360168989_3567500230195939_3435297089428895080_n.jpg?stp=dst-jpg_p280x280&_nc_cat=111&ccb=1-7&_nc_sid=ae9488&_nc_ohc=5OMlQo5KCK4AX9KyrCQ&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQORt3tzPBs5sEWyxIf5HQC5yYGGYdeM5c2ysQZc5hCmw&oe=64D5C053",
+            "previewWidth": 620,
+            "previewHeight": 280,
+            "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/360168989_3567500230195939_3435297089428895080_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=ae9488&_nc_ohc=5OMlQo5KCK4AX9KyrCQ&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQs2fCDPVEIpn0sBX2enqOkRO4T1c7n5eKveLPCe4jT1w&oe=64D5C053",
+            "largePreviewWidth": 720,
+            "largePreviewHeight": 325,
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/360168989_3567500230195939_3435297089428895080_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=ae9488&_nc_ohc=5OMlQo5KCK4AX9KyrCQ&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQs2fCDPVEIpn0sBX2enqOkRO4T1c7n5eKveLPCe4jT1w&oe=64D5C053",
+            "width": 720,
+            "height": 325,
+            "name": "image-3567500226862606"
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1689152282260",
+    "isGroup": true
+}
+[12.7T16.1.25Z] [Message] {
+    "type": "message",
+    "senderID": "100026039134645",
+    "body": "(~~[ 16:00:00_12/07/2023 ]~~)\nĐây Là Tin Nhắn Tự Động!\n\nAnh có tin vào duyên số không.\nNếu không thì anh đưa số điện thoại đây",
+    "threadID": "5668747433145242",
+    "messageID": "mid.$gABQjsh0S85qPepq9gWJSVQvDOK5K",
+    "attachments": [
+        {
+            "type": "video",
+            "filename": "video-f97c5b5a-dae1-456b-b72c-5b26657ce3d1-1689152483.mp4",
+            "ID": "970594410916081",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/349231480_6484567798252727_408579024244396617_n.jpg?stp=dst-jpg_s640x640&_nc_cat=104&ccb=1-7&_nc_sid=f8ae41&_nc_ohc=EeUEkybK81kAX-V8gP2&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdRCu3NECjyfq0DAvCOStWKosAvRohS3tvkWQ_LAfG-TfQ&oe=64B395A2",
+            "previewWidth": 360,
+            "previewHeight": 640,
+            "url": "https://scontent.xx.fbcdn.net/v/t42.3356-2/347962089_6040731142720870_6340016573183827921_n.mp4?_nc_cat=101&ccb=1-7&_nc_sid=060d78&_nc_ohc=7XSM8R3Xe60AX-jcBGM&_nc_ht=scontent.xx&oh=03_AdTdfBZCqg22iW6mPpSCslyHVV8f7_6HV95hkxeAldU8Vw&oe=64AE8BFA&dl=1",
+            "width": 480,
+            "height": 852,
+            "duration": 15000,
+            "videoType": "file_attachment",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/349231480_6484567798252727_408579024244396617_n.jpg?stp=dst-jpg_s640x640&_nc_cat=104&ccb=1-7&_nc_sid=f8ae41&_nc_ohc=EeUEkybK81kAX-V8gP2&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdRCu3NECjyfq0DAvCOStWKosAvRohS3tvkWQ_LAfG-TfQ&oe=64B395A2"
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1689152484737",
+    "isGroup": true
+}
+[12.7T16.52.54Z] [Restart] [WARN!] Bắt đầu khởi động lại!
+[12.7T16.52.54Z] [Data] Saved data!

@@ -1,0 +1,68 @@
+[12.7T21.53.6Z] [Config] Loading config success!
+[12.7T21.53.6Z] [Data] Loading data...
+[12.7T21.53.6Z] [Data] Loading data success!
+[12.7T21.53.6Z] [Plugin] Loading Plugins...
+[12.7T21.53.6Z] [Plugins] Loading main plugins "Y2TB.js"...
+[12.7T21.53.6Z] [Plugins(Y2TB)] In developer mode only develop plugin and plugin eval, help, plugins store can load!
+[12.7T21.53.6Z] [Plugins(Y2TB)] Loaded devplugin: AntiUnsend 0.0.1 by HerokeyVN
+[12.7T21.53.6Z] [Plugins(Y2TB)] Loaded devplugin: ArrowChat 0.0.1 by HerokeyVN
+[12.7T21.53.6Z] [Plugins(Y2TB)] Loaded devplugin: Auto Download 0.0.1 by Yuuki
+[12.7T21.53.6Z] [Plugins(Y2TB)] Loaded devplugin: ChemicalEquationBalancer 0.1 by UIRI
+[12.7T21.53.6Z] [Plugins(Y2TB)] Loaded devplugin: ChatGPT 0.0.1 by HerokeyVN
+[12.7T21.53.6Z] [Plugins(Y2TB)] Loaded devplugin: Connected 0.0.1 by HerokeyVN
+[12.7T21.53.6Z] [Plugins(Y2TB)] Loaded devplugin: Csim 0.0.1 by HerokeyVN
+[12.7T21.53.6Z] [Plugins(Y2TB)] Loaded devplugin: DevTool 0.0.1 by HyTommy
+[12.7T21.53.6Z] [Plugins(Y2TB)] Loaded devplugin: Download Tiktok 0.0.1 by Yuuki
+[12.7T21.53.6Z] [Plugins(Y2TB)] Loaded devplugin: Economy 0.0.1 by HerokeyVN
+[12.7T21.53.6Z] [Plugins(Y2TB)] Loaded devplugin: Eval 0.0.1 by HerokeyVN
+[12.7T21.53.6Z] [Plugins(Y2TB)] Loaded devplugin: Help 0.0.1 by HerokeyVN
+[12.7T21.53.6Z] [Plugins(Y2TB)] Loaded devplugin: Image Hentaiz 0.0.1 by Yuuki
+[12.7T21.53.6Z] [Plugins(Y2TB)] Loaded devplugin: JPG Anime 0.0.1 by HerokeyVN
+[12.7T21.53.6Z] [Plugins(Y2TB)] Loaded devplugin: Math 0.0.1 by HerokeyVN
+[12.7T21.53.6Z] [Plugins(Y2TB)] Loaded devplugin: 18+ Images 0.0.1 by HerokeyVN
+[12.7T21.53.6Z] [Plugins(Y2TB)] Loaded devplugin: Ping 0.0.1 by HerokeyVN
+[12.7T21.53.6Z] [Plugins(Y2TB)] Loaded devplugin: QRcode 0.0.1 by HerokeyVN
+[12.7T21.53.6Z] [Restart] [WARN!] Sẽ khởi động lại sau 60 phút. Lưu ý:
+- Để chỉnh sửa thời gian tự động khởi động lại, dùng ".autorestart <Thời gian (phút)>"
+- Thời gian khởi động lại bằng 0 sẽ tắt tính năng tự động khởi động lại
+[12.7T21.53.6Z] [Plugins(Y2TB)] Loaded devplugin: Restart 0.0.1 by HerokeyVN
+[12.7T21.53.6Z] [Plugins(Y2TB)] Loaded devplugin: Rushia 0.0.1 by Yuuki
+[12.7T21.53.6Z] [Plugins(Y2TB)] Loaded devplugin: T2Speaks 0.5.0 by UIRI
+[12.7T21.53.6Z] [Plugins(Y2TB)] Loaded devplugin: test 0.0.1 by Yuuki
+[12.7T21.53.6Z] [Plugins(Y2TB)] Loaded devplugin: THPT 0.0.1 by Yuuki
+[12.7T21.53.6Z] [Plugins(Y2TB)] Loaded devplugin: Unsend 0.0.1 by HerokeyVN
+[12.7T21.53.6Z] [Plugins(Y2TB)] Loaded devplugin: test 0.0.1 by Yuuki
+[12.7T21.53.6Z] [Plugins(Y2TB)] Loaded devplugin: Weather 0.0.1 by HerokeyVN
+[12.7T21.53.6Z] [Plugins(Y2TB)] Loaded devplugin: SearchWiki 0.1.2 by Stowe + BadAimWeeb (f.edit)
+[12.7T21.53.6Z] [Plugins(Y2TB)] Loaded devplugin: XPchat 0.0.1 by HerokeyVN
+[12.7T21.53.6Z] [Plugins(Y2TB)] Loaded devplugin: YTmp34 0.1.0 by HerokeyVN
+[12.7T21.53.6Z] [Plugins(Y2TB)] Loaded devplugin: YTSearch 0.0.1 by HerokeyVN
+[12.7T21.53.7Z] [Plugins(Y2TB)] Loaded devplugin: Eval 0.0.1 by HerokeyVN
+[12.7T21.53.7Z] [Plugins(Y2TB)] Loaded devplugin: Help 0.0.1 by HerokeyVN
+[12.7T21.53.8Z] [Plugins(Y2TB)] Loaded devplugin: Plugins Store 0.0.1 by HerokeyVN
+[12.7T21.53.8Z] [Languages] Loading Languages...
+[12.7T21.53.8Z] [Languages] Loaded language for plugin "AntiUnsend"
+[12.7T21.53.8Z] [Languages] Loaded language for plugin "ArrowChat"
+[12.7T21.53.8Z] [Languages] Loaded language for plugin "Auto Download"
+[12.7T21.53.8Z] [Languages] Loaded language for plugin "Connected"
+[12.7T21.53.8Z] [Languages] Loaded language for plugin "Csim"
+[12.7T21.53.8Z] [Languages] Loaded language for plugin "DevTool"
+[12.7T21.53.8Z] [Languages] Loaded language for plugin "Download Tiktok"
+[12.7T21.53.8Z] [Languages] Loaded language for plugin "Economy"
+[12.7T21.53.8Z] [Languages] Loaded language for plugin "Help"
+[12.7T21.53.8Z] [Languages] Loaded language for plugin "Image Hentaiz"
+[12.7T21.53.8Z] [Languages] Loaded language for plugin "JPG Anime"
+[12.7T21.53.8Z] [Languages] Loaded language for plugin "Plugins Store"
+[12.7T21.53.8Z] [Languages] Loaded language for plugin "QRcode"
+[12.7T21.53.8Z] [Languages] Loaded language for plugin "Restart"
+[12.7T21.53.8Z] [Languages] Loaded language for plugin "Rushia"
+[12.7T21.53.8Z] [Languages] Loaded language for plugin "test"
+[12.7T21.53.8Z] [Languages] Loaded language for plugin "THPT"
+[12.7T21.53.8Z] [Languages] Loaded language for plugin "Unsend"
+[12.7T21.53.8Z] [Languages] Loaded language for plugin "Weather"
+[12.7T21.53.8Z] [Config] Loading config for plugins...
+[12.7T21.53.8Z] [Config] Loaded config for plugin "Auto Download"
+[12.7T21.53.8Z] [Manager] Loading User-credentials...
+[12.7T21.53.8Z] [Facebook] => Login account using FBstate
+[12.7T21.53.8Z] [Manager] Logging...
+[12.7T21.53.11Z] [Manager] Login successfuly!

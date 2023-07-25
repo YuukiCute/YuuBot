@@ -1,0 +1,36 @@
+{
+    "plssend": {
+        "desc": "Please send coordinate message",
+        "vi_VN": "Vui lòng gửi tọa độ vị trí (Bạn có {0} phút)!",
+        "en_US": "Please send location coordinates (You have {0} minutes)!",
+        "args": {
+            "{0}": {
+                "vi_VN": "Phút",
+                "en_US": "Min"
+            }
+        }
+    },
+    "timeout": {
+        "desc": "Timeout send coordinate",
+        "vi_VN": "Đã hết thời gian gửi vị trí!",
+        "en_US": "Location submission timeout!",
+        "args": {}
+    },
+    "unkn": {
+        "desc": "Unknown local",
+        "vi_VN": "Vị trí không tồn tại!",
+        "en_US": "Location does not exist!",
+        "args": {}
+    },
+    "return": {
+        "desc": "Return data",
+        "vi_VN": "Thời tiết hiện tại ở {0}:\n-Thời tiết hiện tại: {1}\n-Nhiệt độ: {2}°C (Cảm giác như: {3}°C)\n +Nhiệt độ cao nhất: {4}°C\n +Nhiệt độ thấp nhất: {5}°C\n-Độ ẩm: {6}%\n-Gió: {7}m/s",
+        "en_US": "Current weather at {0}:\n-Current weather: {1}\n-Temperature: {2}°C (Feels like: {3}°C)\n +Highest temperature:  {4}°C\n +Last temperature: {5}°C\n-Humidity: {6}%\n-Wind: {7}m/s",
+        "args": {
+            "{0}": {
+                "vi_VN": "Thành phố",
+                "en_US": "City"
+            }
+        }
+    }
+}

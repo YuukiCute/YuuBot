@@ -1,0 +1,147 @@
+[12.7T10.37.56Z] [Config] Loading config success!
+[12.7T10.37.56Z] [Data] Loading data...
+[12.7T10.37.56Z] [Data] Loading data success!
+[12.7T10.37.56Z] [Plugin] Loading Plugins...
+[12.7T10.37.56Z] [Plugins] Loading main plugins "Y2TB.js"...
+[12.7T10.37.57Z] [Plugins(Y2TB)] In developer mode only develop plugin and plugin eval, help, plugins store can load!
+[12.7T10.37.57Z] [Plugins(Y2TB)] Loaded devplugin: AntiUnsend 0.0.1 by HerokeyVN
+[12.7T10.37.57Z] [Plugins(Y2TB)] Loaded devplugin: ArrowChat 0.0.1 by HerokeyVN
+[12.7T10.37.57Z] [Plugins(Y2TB)] Loaded devplugin: Auto Download 0.0.1 by Yuuki
+[12.7T10.37.57Z] [Plugins(Y2TB)] Loaded devplugin: ChemicalEquationBalancer 0.1 by UIRI
+[12.7T10.37.57Z] [Plugins(Y2TB)] Loaded devplugin: ChatGPT 0.0.1 by HerokeyVN
+[12.7T10.37.57Z] [Plugins(Y2TB)] Loaded devplugin: Connected 0.0.1 by HerokeyVN
+[12.7T10.37.57Z] [Plugins(Y2TB)] Loaded devplugin: Csim 0.0.1 by HerokeyVN
+[12.7T10.37.57Z] [Plugins(Y2TB)] Loaded devplugin: DevTool 0.0.1 by HyTommy
+[12.7T10.37.57Z] [Plugins(Y2TB)] Loaded devplugin: Download Tiktok 0.0.1 by Yuuki
+[12.7T10.37.57Z] [Plugins(Y2TB)] Loaded devplugin: Economy 0.0.1 by HerokeyVN
+[12.7T10.37.57Z] [Plugins(Y2TB)] Loaded devplugin: Eval 0.0.1 by HerokeyVN
+[12.7T10.37.57Z] [Plugins(Y2TB)] Loaded devplugin: Help 0.0.1 by HerokeyVN
+[12.7T10.37.57Z] [Plugins(Y2TB)] Loaded devplugin: Image Hentaiz 0.0.1 by Yuuki
+[12.7T10.37.57Z] [Plugins(Y2TB)] Loaded devplugin: JPG Anime 0.0.1 by HerokeyVN
+[12.7T10.37.57Z] [Plugins(Y2TB)] Loaded devplugin: Math 0.0.1 by HerokeyVN
+[12.7T10.37.57Z] [Plugins(Y2TB)] Loaded devplugin: 18+ Images 0.0.1 by HerokeyVN
+[12.7T10.37.57Z] [Plugins(Y2TB)] Loaded devplugin: Ping 0.0.1 by HerokeyVN
+[12.7T10.37.57Z] [Plugins(Y2TB)] Loaded devplugin: QRcode 0.0.1 by HerokeyVN
+[12.7T10.37.57Z] [Restart] [WARN!] Sẽ khởi động lại sau 60 phút. Lưu ý:
+- Để chỉnh sửa thời gian tự động khởi động lại, dùng ".autorestart <Thời gian (phút)>"
+- Thời gian khởi động lại bằng 0 sẽ tắt tính năng tự động khởi động lại
+[12.7T10.37.57Z] [Plugins(Y2TB)] Loaded devplugin: Restart 0.0.1 by HerokeyVN
+[12.7T10.37.57Z] [Plugins(Y2TB)] Loaded devplugin: Rushia 0.0.1 by Yuuki
+[12.7T10.37.57Z] [Plugins(Y2TB)] Loaded devplugin: T2Speaks 0.5.0 by UIRI
+[12.7T10.37.57Z] [Plugins(Y2TB)] Loaded devplugin: test 0.0.1 by Yuuki
+[12.7T10.37.57Z] [Plugins(Y2TB)] Loaded devplugin: THPT 0.0.1 by Yuuki
+[12.7T10.37.57Z] [Plugins(Y2TB)] Loaded devplugin: Unsend 0.0.1 by HerokeyVN
+[12.7T10.37.57Z] [Plugins(Y2TB)] Loaded devplugin: test 0.0.1 by Yuuki
+[12.7T10.37.57Z] [Plugins(Y2TB)] Loaded devplugin: Weather 0.0.1 by HerokeyVN
+[12.7T10.37.57Z] [Plugins(Y2TB)] Loaded devplugin: SearchWiki 0.1.2 by Stowe + BadAimWeeb (f.edit)
+[12.7T10.37.57Z] [Plugins(Y2TB)] Loaded devplugin: XPchat 0.0.1 by HerokeyVN
+[12.7T10.37.57Z] [Plugins(Y2TB)] Loaded devplugin: YTmp34 0.1.0 by HerokeyVN
+[12.7T10.37.57Z] [Plugins(Y2TB)] Loaded devplugin: YTSearch 0.0.1 by HerokeyVN
+[12.7T10.37.58Z] [Plugins(Y2TB)] Loaded devplugin: Eval 0.0.1 by HerokeyVN
+[12.7T10.37.58Z] [Plugins(Y2TB)] Loaded devplugin: Help 0.0.1 by HerokeyVN
+[12.7T10.37.59Z] [Plugins(Y2TB)] Loaded devplugin: Plugins Store 0.0.1 by HerokeyVN
+[12.7T10.37.59Z] [Languages] Loading Languages...
+[12.7T10.37.59Z] [Languages] Loaded language for plugin "AntiUnsend"
+[12.7T10.37.59Z] [Languages] Loaded language for plugin "ArrowChat"
+[12.7T10.37.59Z] [Languages] Loaded language for plugin "Auto Download"
+[12.7T10.37.59Z] [Languages] Loaded language for plugin "Connected"
+[12.7T10.37.59Z] [Languages] Loaded language for plugin "Csim"
+[12.7T10.37.59Z] [Languages] Loaded language for plugin "DevTool"
+[12.7T10.37.59Z] [Languages] Loaded language for plugin "Download Tiktok"
+[12.7T10.37.59Z] [Languages] Loaded language for plugin "Economy"
+[12.7T10.37.59Z] [Languages] Loaded language for plugin "Help"
+[12.7T10.37.59Z] [Languages] Loaded language for plugin "Image Hentaiz"
+[12.7T10.37.59Z] [Languages] Loaded language for plugin "JPG Anime"
+[12.7T10.37.59Z] [Languages] Loaded language for plugin "Plugins Store"
+[12.7T10.37.59Z] [Languages] Loaded language for plugin "QRcode"
+[12.7T10.37.59Z] [Languages] Loaded language for plugin "Restart"
+[12.7T10.37.59Z] [Languages] Loaded language for plugin "Rushia"
+[12.7T10.37.59Z] [Languages] Loaded language for plugin "test"
+[12.7T10.37.59Z] [Languages] Loaded language for plugin "THPT"
+[12.7T10.37.59Z] [Languages] Loaded language for plugin "Unsend"
+[12.7T10.37.59Z] [Languages] Loaded language for plugin "Weather"
+[12.7T10.37.59Z] [Config] Loading config for plugins...
+[12.7T10.37.59Z] [Config] Loaded config for plugin "Auto Download"
+[12.7T10.37.59Z] [Manager] Loading User-credentials...
+[12.7T10.37.59Z] [Facebook] => Login account using FBstate
+[12.7T10.37.59Z] [Manager] Logging...
+[12.7T10.38.2Z] [Manager] Login successfuly!
+[12.7T10.38.9Z] [Message] [100042415119261 reply 100065353513096 to 6186800708105252] 1
+[12.7T10.38.28Z] [Message] [100015308170955 to 6186800708105252] =))) đỡ tật hơn roi nè
+[12.7T10.38.41Z] [Message] [100015308170955 to 6186800708105252] .
+[12.7T10.38.42Z] [Message] [100071157366848 reply 100015308170955 to 6186800708105252] Lệnh không tồn tại! Vui lòng sử dụng lệnh ".help [Trang số]" để xem các lệnh hiện có
+[12.7T10.38.55Z] [Message] [100042415119261 to 6186800708105252] =)))
+[12.7T10.39.8Z] [Message] [100015308170955 to 6186800708105252] Nhma
+[12.7T10.39.12Z] [Message] [100042415119261 to 6186800708105252] Đề nghị chuyene khỏi download =)))
+[12.7T10.39.13Z] [Message] [100015308170955 to 6186800708105252] Tốc độ chậm quá...
+[12.7T10.39.23Z] [Message] [100015308170955 reply 100042415119261 to 6186800708105252] Cái này nè
+[12.7T10.39.23Z] [Message] [100042415119261 to 6186800708105252] .-.
+[12.7T10.39.24Z] [Message] [100071157366848 reply 100042415119261 to 6186800708105252] Lệnh không tồn tại! Vui lòng sử dụng lệnh ".help [Trang số]" để xem các lệnh hiện có
+[12.7T10.39.31Z] [Message] [100042415119261 reply 100015308170955 to 6186800708105252] Mạng yê3ú
+[12.7T10.39.33Z] [Message] {
+    "type": "message",
+    "senderID": "100042415119261",
+    "body": "",
+    "threadID": "6186800708105252",
+    "messageID": "mid.$gABX63MqAtCSPeXQPFmJSC7G1SUcs",
+    "attachments": [
+        {
+            "type": "sticker",
+            "ID": "254594082670629",
+            "url": "https://scontent.xx.fbcdn.net/v/t39.1997-6/133930821_254594189337285_3972908656211179838_n.png?_nc_cat=1&ccb=1-7&_nc_sid=ac3552&_nc_ohc=kkA_tHlw4cUAX9D_9nB&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=00_AfCe3EUA5z7MgvJWAdQ2-xex4sPWqAKnEfMzAcZEAsAKTw&oe=64B273DD",
+            "packID": "254593106004060",
+            "spriteUrl": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/134727278_254594089337295_3932555547153598175_n.png?stp=dst-png_p600x600&_nc_cat=103&ccb=1-7&_nc_sid=0572db&_nc_ohc=s1jzcPnrI0cAX-o3BCK&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=00_AfD45M_AKHUu0Zhpdwg2kJC8qavzo37_twSBB-MbJYB2Dg&oe=64B21DB4"
+            },
+            "spriteUrl2x": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/134727278_254594089337295_3932555547153598175_n.png?_nc_cat=103&ccb=1-7&_nc_sid=0572db&_nc_ohc=s1jzcPnrI0cAX-o3BCK&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=00_AfAjQePSNBDQnkAx6XfR5vikZ3r3XUHZfRbiKHE8wtPwNA&oe=64B21DB4"
+            },
+            "width": 240,
+            "height": 240,
+            "caption": "Mimi the rosy-cheeked bunny sits in a dark corner with arms wrapped around knees as a phone on the floor next to them provides light.",
+            "description": "Mimi the rosy-cheeked bunny sits in a dark corner with arms wrapped around knees as a phone on the floor next to them provides light.",
+            "frameCount": 24,
+            "frameRate": 41,
+            "framesPerRow": 5,
+            "framesPerCol": 5,
+            "stickerID": "254594082670629",
+            "spriteURI": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/134727278_254594089337295_3932555547153598175_n.png?stp=dst-png_p600x600&_nc_cat=103&ccb=1-7&_nc_sid=0572db&_nc_ohc=s1jzcPnrI0cAX-o3BCK&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=00_AfD45M_AKHUu0Zhpdwg2kJC8qavzo37_twSBB-MbJYB2Dg&oe=64B21DB4"
+            },
+            "spriteURI2x": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/134727278_254594089337295_3932555547153598175_n.png?_nc_cat=103&ccb=1-7&_nc_sid=0572db&_nc_ohc=s1jzcPnrI0cAX-o3BCK&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=00_AfAjQePSNBDQnkAx6XfR5vikZ3r3XUHZfRbiKHE8wtPwNA&oe=64B21DB4"
+            }
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1689133172502",
+    "isGroup": true
+}
+[12.7T10.39.35Z] [Message] [100065353513096 reply 100042415119261 to 6186800708105252] Success: Wiz Khalifa - See You Again ft. Charlie Puth [Official Video] Furious 7 Soundtrack
+[12.7T10.40.11Z] [Message] [100071157366848 to 4311623618967026] YuukiBot | Đã kết nối!
+Sử dụng lệnh ".help [Trang||Lệnh]" để xem tất cả các lệnh.
+[12.7T10.40.11Z] [Connected] Connected to 4311623618967026 success!
+[12.7T10.40.14Z] [Message] [100015308170955 to 6186800708105252] Hmm
+[12.7T10.40.39Z] [Message] [100015308170955 to 6186800708105252] S tật z nhỉ
+[12.7T10.40.51Z] [Message] [100042415119261 to 4311623618967026] Oke eim
+[12.7T10.40.53Z] [Message] [100042415119261 to 4311623618967026] .
+[12.7T10.40.54Z] [Message] [100071157366848 reply 100042415119261 to 4311623618967026] Lệnh không tồn tại! Vui lòng sử dụng lệnh ".help [Trang số]" để xem các lệnh hiện có
+[12.7T10.41.2Z] [Message] [100042415119261 to 4311623618967026] .ytmp3 djtme
+[12.7T10.41.2Z] [ytmp3] [ERR!] {}
+[12.7T10.41.11Z] [Message] [100090458979503 to 6186800708105252] .
+[12.7T10.41.12Z] [Message] [100071157366848 reply 100090458979503 to 6186800708105252] Lệnh không tồn tại! Vui lòng sử dụng lệnh ".help [Trang số]" để xem các lệnh hiện có
+[12.7T10.41.13Z] [Message] [779743414 reply 100015308170955 to 6186800708105252] Tật mà
+[12.7T10.41.16Z] [Message] [100090458979503 to 6186800708105252] .help
+[12.7T10.41.17Z] [Message] [100071157366848 reply 100090458979503 to 6186800708105252] Danh sách các lệnh:
+1. .antiunsend 
+2. .adrow <Từ khóa> => <Trả lời>
+3. .listrow 
+4. .delarow <Từ khóa>
+5. .delarowall 
+6. .autodown Bật | Tắt tính năng autodown!
+7. .chebal <Phương trình cần cân bằng>
+8. .gpt <msg>
+9. .gptv1 <msg>
+10. .gptdel 
+"Trang 1/5"
+Hãy gõ ".help [Lệnh]" để biết thêm chi tiết về lệnh đó

@@ -1,0 +1,20 @@
+{
+    "nomsg": {
+        "desc": "Undefined message",
+        "vi_VN": "Vui lòng nhập nội dung!",
+        "en_US": "Please enter content!",
+        "args": {}
+    },
+    "noreply": {
+        "desc": "No reply",
+        "vi_VN": "Vui lòng reply mã QR!",
+        "en_US": "Please reply QR code!",
+        "args": {}
+    },
+    "notqr": {
+        "desc": "Not QRcode",
+        "vi_VN": "Đó không phải là mã QR!",
+        "en_US": "It is't QR code!",
+        "args": {}
+    }
+}
