@@ -1,0 +1,36 @@
+function init(){
+    return{
+        "pluginName":"test",
+        "pluginMain":"test.js",
+        "desc": {
+            "vi_VN": "test",
+            "en_US": "test",
+        },
+        "commandList": {
+            "test": {
+                "help": {
+                    "vi_VN": "",
+                    "en_US": "",
+                },
+                "tag": {
+                    "vi_VN": "test",
+                    "en_US": "test",
+                },
+                "mainFunc": "main",
+                "example": {
+                    "vi_VN": "test",
+                    "en_US": "test",
+                }
+            }
+        },
+        "langMap": {
+            "smsg": {
+                "desc": "Test!",
+                "vi_VN": "test",
+                "en_US": "test",
+            }
+        },
+        "author": "Yuuki",
+        "version": "0.0.1"
+    }
+}

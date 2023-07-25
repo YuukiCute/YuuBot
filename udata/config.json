@@ -1,0 +1,21 @@
+{
+    "bot_info": {
+        "botname": "YuukiBot",
+        "lang": "vi_VN"
+    },
+    "facebook": {
+        "FBemail": "",
+        "FBpassword": "",
+        "prefix": ".",
+        "admin": [
+            100015308170955
+        ],
+        "autoMarkRead": true,
+        "selfListen": true,
+        "UIDmode": "disable",
+        "blackList": [],
+        "whiteList": [
+            100015308170955
+        ]
+    }
+}
